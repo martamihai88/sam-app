@@ -44,7 +44,6 @@ Metadata:
     Description: hello world
     Author: mogly
     SpdxLicenseId: Apache-2.0
-    LicenseUrl: LICENSE.txt
     ReadmeUrl: README.md
     Labels: ['tests']
     HomePageUrl: https://github.com/martamihai88/sam-app
